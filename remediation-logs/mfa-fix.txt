@@ -1,7 +1,0 @@
-#IAM Security
-
-## Finding: MFA Not Enabled on Root Account
-- **Severity:** Critical
-- **NIST Control:** PR.AC-1 (Identity Management)
-- **Action Taken:** Logged into Root, navigated to IAM > Security Credentials, and assigned a hardware-based MFA token.
-- **Outcome:** Risk of credential compromise reduced by 99%.
